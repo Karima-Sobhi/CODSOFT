@@ -1,5 +1,13 @@
 # CODSOFT
 This repository is for ML intern from CODSOFT
+![CODSOFT](https://github.com/Karima-Sobhi/CODSOFT_ML/assets/127060475/6da53373-78c1-4e76-be30-fb1d309ea15e)
+📍 Batch - Jan 2024
+
+### Here, I have uploaded all my solutions of tasks in my Machine Learning Internship provided by CodSoft.
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+
 ## [1] Task 1 - MOVIE GENRE CLASSIFICATION
 ### - predict the genre of a movie based on its description using ML algorithms and NLP 
 
